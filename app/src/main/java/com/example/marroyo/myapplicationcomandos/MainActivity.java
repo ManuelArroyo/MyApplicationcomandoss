@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         btn = (Button)findViewById(R.id.button);
+        int numero = 30;
+        int numero2 = 98;
     }
 }
